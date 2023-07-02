@@ -4,6 +4,8 @@ I am a Data Analyst with a passion for driving key business decisions through cl
 
 ## Skillset - Tech
 
+<img src='https://github.com/vijibabu/vijibabu/tree/main/images' height = '40'>
+
 - Excel
 - SQL
 - Python, R
