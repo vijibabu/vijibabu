@@ -4,16 +4,8 @@ I am a Data Analyst with a passion for driving key business decisions through cl
 
 ## Skillset - Tech
 
-<img src="https://github.com/vijibabu/vijibabu/tree/main/images/Excel.jpg" height = '40'/>
-<img src="https://github.com/vijibabu/vijibabu/tree/main/images/PostgreSQL.jpg" height = '40'>
-<img src="https://github.com/vijibabu/vijibabu/tree/main/images/Python.jpg" height = '40'>
-<img src="https://github.com/vijibabu/vijibabu/tree/main/images/R.jpg" height = '40'>
-<img src="https://github.com/vijibabu/vijibabu/tree/main/images/Tableau.jpg" height = '40'>
+<img src="https://github.com/vijibabu/vijibabu/blob/main/images/Excel.jpg" height = '40'/>  <img src="https://github.com/vijibabu/vijibabu/blob/main/images/PostgreSQL.jpg" height = '40'/>  <img src="https://github.com/vijibabu/vijibabu/blob/main/images/Python.jpg" height = '40'/>  <img src="https://github.com/vijibabu/vijibabu/blob/main/images/R.jpg" height = '40'/>  <img src="https://github.com/vijibabu/vijibabu/blob/main/images/Tableau.jpg" height = '40'/>  <img src="https://github.com/vijibabu/vijibabu/blob/main/images/DB.jpg" height = '40'/>  <img src="https://github.com/vijibabu/vijibabu/blob/main/images/Jupyter notebook.jpg" height = '40'/>  <img src="https://github.com/vijibabu/vijibabu/blob/main/images/Powerpoint.jpg" height = '40'/>  <img src="https://github.com/vijibabu/vijibabu/blob/main/images/Picture9.jpg" height = '40'/>
 
-- Excel
-- SQL
-- Python, R
-- Tableau
 
 
 📫 How to reach me: vijibabu.21@gmail.com 
