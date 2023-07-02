@@ -9,7 +9,7 @@ I am a Data Analyst with competencies in Excel, SQL, R, Python & Tableau combine
 - Tableau
 
 
-- 📫 How to reach me: vijibabu.21@gmail.com 
+📫 How to reach me: vijibabu.21@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vijibabu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/vijayalakshmi-venugopal-da/)  
