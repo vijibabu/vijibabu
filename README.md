@@ -4,7 +4,11 @@ I am a Data Analyst with a passion for driving key business decisions through cl
 
 ## Skillset - Tech
 
-<img src='https://github.com/vijibabu/vijibabu/tree/main/images' height = '40'>
+<img src='https://github.com/vijibabu/vijibabu/tree/main/images/Excel' height = '40' >
+<img src='https://github.com/vijibabu/vijibabu/tree/main/images/PostgreSQL' height = '40'>
+<img src='https://github.com/vijibabu/vijibabu/tree/main/images/Python' height = '40'>
+<img src='https://github.com/vijibabu/vijibabu/tree/main/images/R' height = '40'>
+<img src='https://github.com/vijibabu/vijibabu/tree/main/images/Tableau' height = '40'>
 
 - Excel
 - SQL
